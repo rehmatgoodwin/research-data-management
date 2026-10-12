@@ -6,7 +6,7 @@ This repository provides templates and guidance on organisation of research data
 ## Quick Start ##
 1. Download templates from metadata-templates folder (.xls format should be compatible with excel, google sheets, LibreOffice, etc.)
 2. Check metadata-templates options for ReadMe.txt templates for relevant experimental metadata conventions (i.e. AFM, UV-Visible absorption, photoluminescence, etc.) 
-3. Read through docs for guidance on naming conventions, structuring characterisation folders, and organising experimental metadata\
+3. Read through docs for guidance on naming conventions, structuring characterisation folders, and organising experimental metadata
 4. Check examples for examples of project organisation.
 
 ## Repository structure ##

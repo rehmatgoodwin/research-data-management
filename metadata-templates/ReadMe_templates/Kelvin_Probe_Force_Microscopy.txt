@@ -1,0 +1,62 @@
+***This template is specific to an MFP-3D (Asylum Instruments). Adjust according to the inputs/outputs of your specific microscope***
+
+
+DATE SAMPLE CODE (optional composition/sample details)
+- General experimental details
+	- Illumination (type and intensity) -- if relevant
+	- Conditions (i.e. ambient conditions) 
+- Experiment intentions (i.e. dark, temporal, SPV, etc) 
+ 
+
+Room conditions: [if applicable]
+Humidity = %
+Temp = degC
+
+Probe type = brand + probe type (i.e. BudgetSensors/Multi75-G)
+Photosum = photosum taken once laser is aligned (units) 
+
+
+Initial calibration:
+
+Amp inVOLs = deflection sensitivity (units)
+k =  spring constant (units) 
+Q = Q-factor (if provided) 
+f0 =  Resonant frequency of cantilever (usually in kHz) 
+
+Tuning: 
+fd = Drive frequency (usually kHz) 
+Ad = Drive amplitude (usually nm or mV)  
+Af = Free amplitude (usually nm or mV) - note down in both units
+
+Initial engage setpoint = what you have set to start engaging
+
+Surface found = setpoint where you initially reach sample surface (mV or nm) 
+
+Image 0000 - Single force curve = if available. (Take once parameters are optimised), single force done at X nm or X V
+
+Retune at surface (not always necessary and not everything always needs changing) 
+fd = Drive frequency (usually kHz) 
+Ad = Drive amplitude (usually nm or mV)  
+Af = Free amplitude (usually nm or mV) - note down in both units
+
+Electric calibration: 
+Electric tune fd = drive frequency for electric tune
+Drive voltage = if applicable
+Tip bias = (if applicable) 
+
+
+Image 0001: description
+direction / offset X / offset Y = up/um/um
+scan size/scan rate/pixels = X um/ X Hz/ pixel x pixel
+Setpoint =  X mV ~ X nm
+I gain =  X
+pot I gain =  X
+pot P gain =  X
+dh =  X nm or pm
+start dh = X pm
+Notes: Any details on artefacts in scans (i.e. oscillations, drift, parachuting, etc.) 
+
+
+NOTE: 
+Continue this per image. If any rest time/time series make a note of times or length of time. Also add in changes to illumination, bias, etc. 
+

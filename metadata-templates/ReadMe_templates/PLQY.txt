@@ -1,0 +1,20 @@
+DATE SAMPLE CODE (extra sample details) 
+- Experiment intentions. 
+
+Experimental data (keep any relevant parameters)
+
+Laser wavelength = 
+Laser power (mA) = 
+Laser intensity = 
+Sample bandgap (eV) = 
+
+
+Per sample type/spot/intensity: 
+Averaged spectra = (i.e. how many averaged per spectra) 
+Short time = X ms
+Long time = X ms 
+
+NOTES: 
+- If the long time is the same for all spectra collected, this can be listed separately. 
+
+- Name any spots in an easy to read format (i.e. SAMPLECODE_spotno) 

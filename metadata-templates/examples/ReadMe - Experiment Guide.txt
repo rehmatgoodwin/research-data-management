@@ -45,13 +45,13 @@ RG0085 (Unpassivated) and RG0091 (Passivated)
 ---KPFM experiments ---  
 
 White light time series:
-Passivated = 250506
-Unpassivated = 250422 
+Passivated = 250506 (149 images)
+Unpassivated = 250422 (150 images)
 
 
 850nm time series: 
-Unpassivated = 250716 
-Passivated = 250917 
+Unpassivated = 250716 (100 images)
+Passivated = 250917 (100 images)
 
 375nm time series: 
 Upassivated = 250828 (58 images) 

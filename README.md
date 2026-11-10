@@ -19,9 +19,13 @@ Within this repository there are examples of folder structures for various exper
 The following article goes through FAIR principles and it's importance in scientific research: https://www.nature.com/articles/sdata201618
 
 FAIR stands for: 
+
 F - findable: Clearly indexed metadata that is consistent and unique to the sample/experiment
+
 A - accessible: Metadata is retrievable with ease using formats that are easily accessible, as well as easy to authenticate.
+
 I - interoperable: Metadata is easily understandable, with language that is broadly understood by the research community. 
+
 R - reusable: Description of metadata meets community standards, with detailed descriptions, allowing the community to reproduce techniques and methods easily.
 
 
